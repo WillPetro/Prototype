@@ -1,0 +1,12 @@
+Content\Entities\Bullet\Rock1.png
+Content\Entities\Player\ballMan.srgx
+Content\Entities\Player\mech.png
+Content\Entities\Player\redball.BMP
+Content\Entities\Player\ShapeCollectionFile.shcx
+Content\Screens\GameScreen\arm.png
+Content\Screens\GameScreen\braid4.jpg
+Content\Screens\GameScreen\land.png
+Content\Screens\GameScreen\Scene.scnx
+Content\Screens\GameScreen\SceneBounds.shcx
+Content\Screens\GameScreen\spiral.png
+Content\Screens\GameScreen\stairs.png
